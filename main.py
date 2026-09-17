@@ -14,7 +14,7 @@ from voice_assistant import VoiceAssistant
 # ==========================================
 # CONFIGURATION
 # ==========================================
-API_KEY = "AIzaSyAb7dtKvDFnib8T36ral-0PLT-7iMXfslQ"
+API_KEY = "ADD_YOUR_API_KEY"
 MODEL_ID = "gemini-3.6-flash"
 
 client = genai.Client(api_key=API_KEY)
